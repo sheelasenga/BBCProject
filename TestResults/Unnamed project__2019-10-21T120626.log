@@ -1,0 +1,110 @@
+﻿2019-10-21T12:06:25.9084919+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-21T12:06:25.9094929+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-21T12:06:25.9094929+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-21T12:06:26.0064928+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-21T12:06:26.0064928+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults" (default)
+2019-10-21T12:06:26.0074928+01:00;VSTestExecutionThread;Info;Profile: 
+2019-10-21T12:06:26.0634906+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults\Unnamed project__2019-10-21T120626.log
+2019-10-21T12:06:26.0854926+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-21T12:06:26.0984923+01:00;Thread#13;Info;Checking license
+2019-10-21T12:06:26.1424963+01:00;Thread#13;Info;Evaluation mode: test execution starts in 10 seconds... (this delay is removed in the registered version)
+2019-10-21T12:06:36.1447069+01:00;Thread#13;Info;Evaluation delay finished.
+2019-10-21T12:06:36.1537073+01:00;Thread#13;Info;License check completed
+2019-10-21T12:06:36.1537073+01:00;Thread#13;Info;starting test run
+2019-10-21T12:06:36.1687070+01:00;Thread#13;Info;Discovering target: Default
+2019-10-21T12:06:36.1697052+01:00;Thread#13;Info;Discovering tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-21T12:06:36.7337065+01:00:Appdomain Disposed
+2019-10-21T12:06:36.7337065+01:00;Thread#13;Info;Discovered tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-21T12:06:36.7357133+01:00:Test Suite Dump
+2019-10-21T12:06:36.7377108+01:00:#0: Unnamed project/ - 
+2019-10-21T12:06:36.7377108+01:00:#1: Default - 
+2019-10-21T12:06:36.7377108+01:00:#2: CSharpSpecFlowSelenium - 
+2019-10-21T12:06:36.7377108+01:00:#3: BBCLogin1 - 
+2019-10-21T12:06:36.7797130+01:00:#6: Valid Signout - TestAssembly:CSharpSpecFlowSelenium/Feature:BBCLogin1/Scenario:Valid+Signout
+2019-10-21T12:06:36.7797130+01:00:End: Test Suite Dump
+2019-10-21T12:06:36.8027062+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T12:06:36.8057073+01:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2019-10-21T12:06:36.8057073+01:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-10-21T12:06:36.8117075+01:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T12:06:36.8117075+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-10-21T12:06:36.8117075+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-10-21T12:06:36.8117075+01:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-10-21T12:06:36.8137089+01:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-10-21T12:06:36.8157051+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-21T12:06:36.8187053+01:00:Thread #0: creating new test thread executor for CSharpSpecFlowSelenium, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-21T12:06:36.8207069+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-21T12:06:36.8217060+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-21T12:06:36.8227061+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-21T12:06:36.9107042+01:00:Thread#0: Test #6/0 is started on thread #0
+2019-10-21T12:06:37.0527493+01:00:Thread#0:T:-> Loading plugin C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-21T12:06:37.0607121+01:00:Thread#0:T:-> Using default config
+2019-10-21T12:06:39.9142901+01:00:Thread#0:B:Given I am on the bbc account page
+2019-10-21T12:06:39.9942890+01:00:Thread#0:T:error: Object reference not set to an instance of an object.
+2019-10-21T12:06:39.9972887+01:00:Thread#0:B:When I press the signout btn
+2019-10-21T12:06:39.9982906+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T12:06:39.9982906+01:00:Thread#0:B:Then I should see the signout page displayed
+2019-10-21T12:06:39.9992901+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T12:06:40.1492903+01:00:Thread#0:TestItem#6:Scheduler: reschedule tests for testitem #6
+2019-10-21T12:06:40.1543007+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T12:06:40.1552909+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2019-10-21T12:06:40.1552909+01:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-10-21T12:06:40.1552909+01:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T12:06:40.1552909+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-10-21T12:06:40.1552909+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-10-21T12:06:40.1552909+01:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-10-21T12:06:40.1552909+01:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-10-21T12:06:40.1552909+01:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-10-21T12:06:40.6192921+01:00:Thread#0: Test #6/0 is finished on thread #0 as Failed within 3.7085879 seconds
+2019-10-21T12:06:40.6222917+01:00:Thread#0: Test #6/1 is started on thread #0
+2019-10-21T12:06:40.6222917+01:00:Thread#0:T:warning: The previous ScenarioContext was not disposed.
+2019-10-21T12:06:43.7998223+01:00:Thread#0:B:Given I am on the bbc account page
+2019-10-21T12:06:43.8018253+01:00:Thread#0:T:error: Object reference not set to an instance of an object.
+2019-10-21T12:06:43.8028222+01:00:Thread#0:B:When I press the signout btn
+2019-10-21T12:06:43.8028222+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T12:06:43.8028222+01:00:Thread#0:B:Then I should see the signout page displayed
+2019-10-21T12:06:43.8028222+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T12:06:43.8038276+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T12:06:43.8038276+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2019-10-21T12:06:43.8038276+01:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-10-21T12:06:43.8038276+01:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T12:06:43.8038276+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-10-21T12:06:43.8038276+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-10-21T12:06:43.8038276+01:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-10-21T12:06:43.8038276+01:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-10-21T12:06:43.8038276+01:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-10-21T12:06:44.0678233+01:00:Thread#0: Test #6/1 is finished on thread #0 as Failed within 3.4455316 seconds
+2019-10-21T12:06:44.0688394+01:00:Thread#0: Test #6/2 is started on thread #0
+2019-10-21T12:06:44.0688394+01:00:Thread#0:T:warning: The previous ScenarioContext was not disposed.
+2019-10-21T12:06:46.9027381+01:00:Thread#0:B:Given I am on the bbc account page
+2019-10-21T12:06:46.9047399+01:00:Thread#0:T:error: Object reference not set to an instance of an object.
+2019-10-21T12:06:46.9047399+01:00:Thread#0:B:When I press the signout btn
+2019-10-21T12:06:46.9057387+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T12:06:46.9057387+01:00:Thread#0:B:Then I should see the signout page displayed
+2019-10-21T12:06:46.9057387+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T12:06:46.9067407+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T12:06:46.9067407+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-21T12:06:46.9067407+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-21T12:06:46.9067407+01:00:Thread#0:Scheduler: No more tests for thread
+2019-10-21T12:06:47.2307406+01:00:Thread#0: Test #6/2 is finished on thread #0 as Failed within 3.1619012 seconds
+2019-10-21T12:06:47.2607435+01:00:Appdomain Disposed
+2019-10-21T12:06:47.2647412+01:00:Trying to cancel thread
+2019-10-21T12:06:47.2647412+01:00:Thread cancelled
+2019-10-21T12:06:47.2787386+01:00:Thread#-1:Scheduler: get next test for thread -1
+2019-10-21T12:06:47.2787386+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-21T12:06:47.2787386+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-10-21T12:06:47.2927420+01:00;Thread#13;Info;test run finished
+2019-10-21T12:06:47.2947415+01:00;Thread#13;Info;publishing test results
+2019-10-21T12:06:47.3067379+01:00;Thread#13;Info;test results published
+2019-10-21T12:06:47.3077391+01:00;Thread#13;Info;generating reports
+2019-10-21T12:06:47.6277415+01:00;Thread#13;Info;Starting external report generation process
+2019-10-21T12:06:50.4017468+01:00;Thread#13;Info;Successfully generated reports.
+2019-10-21T12:06:50.4057636+01:00;Thread#13;Info;Successfully generated reports
+2019-10-21T12:06:50.4167484+01:00:Total: 1 (test executions: 3)
+2019-10-21T12:06:50.4197486+01:00:Succeeded: 0
+2019-10-21T12:06:50.4197486+01:00:Ignored: 0
+2019-10-21T12:06:50.4207476+01:00:Pending: 0
+2019-10-21T12:06:50.4207476+01:00:Skipped: 0
+2019-10-21T12:06:50.4217484+01:00:Failed: 1
+2019-10-21T12:06:50.4347446+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-10-21T12:06:50.4357484+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults\Unnamed project__2019-10-21T120626.html'
+========== End of log file ==========

@@ -1,0 +1,164 @@
+﻿2019-10-21T14:00:31.1063179+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-21T14:00:31.1063179+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-21T14:00:31.1063179+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-21T14:00:31.1884022+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-21T14:00:31.1884022+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults" (default)
+2019-10-21T14:00:31.1893192+01:00;VSTestExecutionThread;Info;Profile: 
+2019-10-21T14:00:31.2283225+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults\Unnamed project__2019-10-21T140031.log
+2019-10-21T14:00:31.2493210+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-21T14:00:31.2604299+01:00;Thread#13;Info;Checking license
+2019-10-21T14:00:31.2983179+01:00;Thread#13;Info;Evaluation mode: test execution starts in 11 seconds... (this delay is removed in the registered version)
+2019-10-21T14:00:42.3003245+01:00;Thread#13;Info;Evaluation delay finished.
+2019-10-21T14:00:42.3123855+01:00;Thread#13;Info;License check completed
+2019-10-21T14:00:42.3123855+01:00;Thread#13;Info;starting test run
+2019-10-21T14:00:42.3293255+01:00;Thread#13;Info;Discovering target: Default
+2019-10-21T14:00:42.3299459+01:00;Thread#13;Info;Discovering tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-21T14:00:43.2703191+01:00:Appdomain Disposed
+2019-10-21T14:00:43.2703191+01:00;Thread#13;Info;Discovered tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-21T14:00:43.2713409+01:00:Test Suite Dump
+2019-10-21T14:00:43.2748991+01:00:#0: Unnamed project/ - 
+2019-10-21T14:00:43.2748991+01:00:#1: Default - 
+2019-10-21T14:00:43.2748991+01:00:#2: CSharpSpecFlowSelenium - 
+2019-10-21T14:00:43.2748991+01:00:#3: BBCLogin1 - 
+2019-10-21T14:00:43.3483256+01:00:#4: Invalid password - TestAssembly:CSharpSpecFlowSelenium/Feature:BBCLogin1/Scenario:Invalid+password
+2019-10-21T14:00:43.3483256+01:00:#5: Valid password - TestAssembly:CSharpSpecFlowSelenium/Feature:BBCLogin1/Scenario:Valid+password
+2019-10-21T14:00:43.3483256+01:00:#6: successful sign out - TestAssembly:CSharpSpecFlowSelenium/Feature:BBCLogin1/Scenario:successful+sign+out
+2019-10-21T14:00:43.3483256+01:00:End: Test Suite Dump
+2019-10-21T14:00:43.3955461+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T14:00:43.3983355+01:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-10-21T14:00:43.3983355+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-21T14:00:43.4073189+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T14:00:43.4073189+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-21T14:00:43.4073189+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-21T14:00:43.4073189+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-21T14:00:43.4096802+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-21T14:00:43.4113857+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-21T14:00:43.4144376+01:00:Thread #0: creating new test thread executor for CSharpSpecFlowSelenium, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-21T14:00:43.4183207+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-21T14:00:43.4193214+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-21T14:00:43.4217308+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-21T14:00:43.6683211+01:00:Thread#0: Test #4/0 is started on thread #0
+2019-10-21T14:00:43.9103224+01:00:Thread#0:T:-> Loading plugin C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-21T14:00:43.9223490+01:00:Thread#0:T:-> Using default config
+2019-10-21T14:00:54.1766376+01:00:Thread#0:B:Given I am on the login page
+2019-10-21T14:00:56.8186750+01:00:Thread#0:T:done: BBCLoginSteps.GivenIAmOnTheLoginPage() (2.6s)
+2019-10-21T14:00:56.8206215+01:00:Thread#0:B:And I have enter a valid username
+2019-10-21T14:00:57.5796261+01:00:Thread#0:T:done: BBCLoginSteps.GivenIHaveEnterAValidUsername() (0.8s)
+2019-10-21T14:00:57.5806264+01:00:Thread#0:B:And I have entered a invalid password
+2019-10-21T14:00:57.8586511+01:00:Thread#0:T:done: BBCLoginSteps.GivenIHaveEnteredAInvalidPassword() (0.3s)
+2019-10-21T14:00:57.8601143+01:00:Thread#0:B:When I press login
+2019-10-21T14:00:58.0456239+01:00:Thread#0:T:done: BBCLoginSteps.WhenIPressLogin() (0.2s)
+2019-10-21T14:00:58.0456239+01:00:Thread#0:B:Then I should see the appropriate error
+2019-10-21T14:00:58.2716235+01:00:Thread#0:T:done: BBCLoginSteps.ThenIShouldSeeTheAppropriateError() (0.2s)
+2019-10-21T14:00:58.3166283+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T14:00:58.3166283+01:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-10-21T14:00:58.3166283+01:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-10-21T14:00:58.3166283+01:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T14:00:58.3166283+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-10-21T14:00:58.3166283+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-10-21T14:00:58.3166283+01:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-10-21T14:00:58.3166283+01:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-10-21T14:00:58.3166283+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-21T14:01:01.5226204+01:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 17.8530887 seconds
+2019-10-21T14:01:01.5326219+01:00:Thread#0: Test #5/0 is started on thread #0
+2019-10-21T14:01:11.2407579+01:00:Thread#0:B:Given I am on the bbc login page
+2019-10-21T14:01:13.3474304+01:00:Thread#0:T:done: BBCLogin1Steps.GivenIAmOnTheBbcLoginPage() (2.1s)
+2019-10-21T14:01:13.3583471+01:00:Thread#0:B:And I have entered a valid username
+2019-10-21T14:01:14.0813470+01:00:Thread#0:T:done: BBCLogin1Steps.GivenIHaveEnteredAValidUsername() (0.7s)
+2019-10-21T14:01:14.0883468+01:00:Thread#0:B:And I have entered a valid password
+2019-10-21T14:01:14.4035279+01:00:Thread#0:T:done: BBCLogin1Steps.GivenIHaveEnteredAValidPassword() (0.3s)
+2019-10-21T14:01:14.4103456+01:00:Thread#0:B:When I press login btn
+2019-10-21T14:01:24.3164258+01:00:Thread#0:T:done: BBCLogin1Steps.WhenIPressLoginBtn() (9.9s)
+2019-10-21T14:01:24.3263489+01:00:Thread#0:B:Then I should see the user account homepage
+2019-10-21T14:01:30.8213489+01:00:Thread#0:T:error: chrome not reachable
+2019-10-21T14:01:30.8283965+01:00:Thread#0:T:  (Session info: chrome=77.0.3865.120)
+2019-10-21T14:01:30.9143496+01:00:Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+2019-10-21T14:01:30.9214096+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T14:01:30.9214096+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2019-10-21T14:01:30.9214096+01:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-10-21T14:01:30.9214096+01:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T14:01:30.9214096+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-10-21T14:01:30.9214096+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-10-21T14:01:30.9214096+01:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-10-21T14:01:30.9214096+01:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-10-21T14:01:30.9214096+01:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-10-21T14:01:30.9453919+01:00:Thread#0: Test #5/0 is finished on thread #0 as Failed within 29.41277 seconds
+2019-10-21T14:01:30.9534494+01:00:Thread#0: Test #5/1 is started on thread #0
+2019-10-21T14:01:30.9603467+01:00:Thread#0:T:warning: The previous ScenarioContext was not disposed.
+2019-10-21T14:01:41.7680097+01:00:Thread#0:B:Given I am on the bbc login page
+2019-10-21T14:01:44.6033451+01:00:Thread#0:T:done: BBCLogin1Steps.GivenIAmOnTheBbcLoginPage() (2.8s)
+2019-10-21T14:01:44.6135492+01:00:Thread#0:B:And I have entered a valid username
+2019-10-21T14:01:46.6640099+01:00:Thread#0:T:done: BBCLogin1Steps.GivenIHaveEnteredAValidUsername() (2.0s)
+2019-10-21T14:01:46.6720077+01:00:Thread#0:B:And I have entered a valid password
+2019-10-21T14:01:46.9901309+01:00:Thread#0:T:done: BBCLogin1Steps.GivenIHaveEnteredAValidPassword() (0.3s)
+2019-10-21T14:01:46.9980134+01:00:Thread#0:B:When I press login btn
+2019-10-21T14:01:52.0060069+01:00:Thread#0:T:done: BBCLogin1Steps.WhenIPressLoginBtn() (5.0s)
+2019-10-21T14:01:52.0140076+01:00:Thread#0:B:Then I should see the user account homepage
+2019-10-21T14:01:52.0950114+01:00:Thread#0:T:done: BBCLogin1Steps.ThenIShouldSeeTheUserAccountHomepage() (0.1s)
+2019-10-21T14:01:52.1090078+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T14:01:52.1090078+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2019-10-21T14:01:52.1100079+01:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-10-21T14:01:52.1100079+01:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T14:01:52.1100079+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-10-21T14:01:52.1100079+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-10-21T14:01:52.1100079+01:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-10-21T14:01:52.1100079+01:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-10-21T14:01:52.1100079+01:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-10-21T14:01:59.1821659+01:00:Thread#0: Test #5/1 is finished on thread #0 as Succeeded within 28.2287165 seconds
+2019-10-21T14:01:59.1901645+01:00:Thread#0: Test #5/2 is started on thread #0
+2019-10-21T14:02:09.3206185+01:00:Thread#0:B:Given I am on the bbc login page
+2019-10-21T14:02:12.3282868+01:00:Thread#0:T:done: BBCLogin1Steps.GivenIAmOnTheBbcLoginPage() (3.0s)
+2019-10-21T14:02:12.3412872+01:00:Thread#0:B:And I have entered a valid username
+2019-10-21T14:02:13.3492887+01:00:Thread#0:T:done: BBCLogin1Steps.GivenIHaveEnteredAValidUsername() (1.0s)
+2019-10-21T14:02:13.3575295+01:00:Thread#0:B:And I have entered a valid password
+2019-10-21T14:02:13.8192900+01:00:Thread#0:T:done: BBCLogin1Steps.GivenIHaveEnteredAValidPassword() (0.5s)
+2019-10-21T14:02:13.8342871+01:00:Thread#0:B:When I press login btn
+2019-10-21T14:02:18.3762881+01:00:Thread#0:T:done: BBCLogin1Steps.WhenIPressLoginBtn() (4.5s)
+2019-10-21T14:02:18.3852917+01:00:Thread#0:B:Then I should see the user account homepage
+2019-10-21T14:02:18.5042857+01:00:Thread#0:T:done: BBCLogin1Steps.ThenIShouldSeeTheUserAccountHomepage() (0.1s)
+2019-10-21T14:02:18.5192891+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T14:02:18.5192891+01:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2019-10-21T14:02:18.5192891+01:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-10-21T14:02:18.5192891+01:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T14:02:18.5192891+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-10-21T14:02:18.5192891+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-10-21T14:02:18.5192891+01:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-10-21T14:02:18.5192891+01:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-10-21T14:02:18.5192891+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-21T14:02:24.8432886+01:00:Thread#0: Test #5/2 is finished on thread #0 as Succeeded within 25.6531241 seconds
+2019-10-21T14:02:24.8502869+01:00:Thread#0: Test #6/0 is started on thread #0
+2019-10-21T14:02:34.6671528+01:00:Thread#0:B:Given i am on the account page
+2019-10-21T14:02:34.6891538+01:00:Thread#0:T:pending: BBCSignoutSteps.GivenIAmOnTheAccountPage()
+2019-10-21T14:02:34.6981569+01:00:Thread#0:B:When i press the sign out button
+2019-10-21T14:02:34.7051523+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T14:02:34.7221760+01:00:Thread#0:B:Then i should see the sign out page
+2019-10-21T14:02:34.7351513+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T14:02:34.7655772+01:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2019-10-21T14:02:34.7781490+01:00:Thread#0:T:  BBCSignoutSteps.GivenIAmOnTheAccountPage()
+2019-10-21T14:02:34.8991498+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T14:02:34.9001802+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-21T14:02:34.9001802+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-21T14:02:34.9001802+01:00:Thread#0:Scheduler: No more tests for thread
+2019-10-21T14:02:37.8453998+01:00:Thread#0: Test #6/0 is finished on thread #0 as Pending within 12.9951129 seconds
+2019-10-21T14:02:37.9031509+01:00:Appdomain Disposed
+2019-10-21T14:02:37.9121516+01:00:Trying to cancel thread
+2019-10-21T14:02:37.9121516+01:00:Thread cancelled
+2019-10-21T14:02:37.9291489+01:00:Thread#-1:Scheduler: get next test for thread -1
+2019-10-21T14:02:37.9291489+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-21T14:02:37.9291489+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-10-21T14:02:37.9551814+01:00;Thread#13;Info;test run finished
+2019-10-21T14:02:37.9561550+01:00;Thread#13;Info;publishing test results
+2019-10-21T14:02:37.9731543+01:00;Thread#13;Info;test results published
+2019-10-21T14:02:37.9731543+01:00;Thread#13;Info;generating reports
+2019-10-21T14:02:38.3141507+01:00;Thread#13;Info;Starting external report generation process
+2019-10-21T14:02:42.0691516+01:00;Thread#13;Info;Successfully generated reports.
+2019-10-21T14:02:42.0901525+01:00;Thread#13;Info;Successfully generated reports
+2019-10-21T14:02:42.1111531+01:00:Total: 3 (test executions: 5)
+2019-10-21T14:02:42.1141495+01:00:Succeeded: 1
+2019-10-21T14:02:42.1154989+01:00:Ignored: 0
+2019-10-21T14:02:42.1161515+01:00:Pending: 1
+2019-10-21T14:02:42.1161515+01:00:Skipped: 0
+2019-10-21T14:02:42.1171531+01:00:Failed: 1
+2019-10-21T14:02:42.1481524+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-10-21T14:02:42.1491492+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults\Unnamed project__2019-10-21T140031.html'
+========== End of log file ==========

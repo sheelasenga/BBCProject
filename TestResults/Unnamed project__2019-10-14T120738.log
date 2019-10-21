@@ -1,0 +1,143 @@
+﻿2019-10-14T12:07:38.8557404+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-14T12:07:38.8557404+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-14T12:07:38.8557404+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-14T12:07:38.9037366+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-14T12:07:38.9037366+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults" (default)
+2019-10-14T12:07:38.9037366+01:00;VSTestExecutionThread;Info;Profile: 
+2019-10-14T12:07:38.9407374+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults\Unnamed project__2019-10-14T120738.log
+2019-10-14T12:07:38.9547362+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-14T12:07:38.9657394+01:00;Thread#14;Info;Checking license
+2019-10-14T12:07:39.0007402+01:00;Thread#14;Info;Evaluation mode: test execution starts in 13 seconds... (this delay is removed in the registered version)
+2019-10-14T12:07:52.0032205+01:00;Thread#14;Info;Evaluation delay finished.
+2019-10-14T12:07:52.0121771+01:00;Thread#14;Info;License check completed
+2019-10-14T12:07:52.0131776+01:00;Thread#14;Info;starting test run
+2019-10-14T12:07:52.0271819+01:00;Thread#14;Info;Discovering target: Default
+2019-10-14T12:07:52.0271819+01:00;Thread#14;Info;Discovering tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-14T12:07:52.5431781+01:00:Appdomain Disposed
+2019-10-14T12:07:52.5431781+01:00;Thread#14;Info;Discovered tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-14T12:07:52.5441751+01:00:Test Suite Dump
+2019-10-14T12:07:52.5471754+01:00:#0: Unnamed project/ - 
+2019-10-14T12:07:52.5471754+01:00:#1: Default - 
+2019-10-14T12:07:52.5471754+01:00:#2: CSharpSpecFlowSelenium - 
+2019-10-14T12:07:52.5471754+01:00:#3: BBCLogin1 - 
+2019-10-14T12:07:52.5931748+01:00:#4: Invalid password - TestAssembly:CSharpSpecFlowSelenium/Feature:BBCLogin1/Scenario:Invalid+password
+2019-10-14T12:07:52.5931748+01:00:End: Test Suite Dump
+2019-10-14T12:07:52.6211787+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T12:07:52.6251758+01:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-10-14T12:07:52.6251758+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-14T12:07:52.6301803+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-14T12:07:52.6301803+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-14T12:07:52.6301803+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-14T12:07:52.6301803+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-14T12:07:52.6311807+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-14T12:07:52.6321786+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-14T12:07:52.6351902+01:00:Thread #0: creating new test thread executor for CSharpSpecFlowSelenium, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-14T12:07:52.6371753+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-14T12:07:52.6381760+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-14T12:07:52.6401824+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-14T12:07:52.7621789+01:00:Thread#0: Test #4/0 is started on thread #0
+2019-10-14T12:07:53.0111730+01:00:Thread#0:T:-> Loading plugin C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-14T12:07:53.0191739+01:00:Thread#0:T:-> Using default config
+2019-10-14T12:07:53.0971739+01:00:Thread#0:B:Given I am on the login page
+2019-10-14T12:08:00.9959671+01:00:Thread#0:T:done: BBCLoginSteps.GivenIAmOnTheLoginPage() (7.8s)
+2019-10-14T12:08:00.9969674+01:00:Thread#0:B:And I have enter a valid username
+2019-10-14T12:08:01.5079670+01:00:Thread#0:T:done: BBCLoginSteps.GivenIHaveEnterAValidUsername() (0.5s)
+2019-10-14T12:08:01.5079670+01:00:Thread#0:B:And I have entered a invalid password
+2019-10-14T12:08:01.7329680+01:00:Thread#0:T:done: BBCLoginSteps.GivenIHaveEnteredAInvalidPassword() (0.2s)
+2019-10-14T12:08:01.7339669+01:00:Thread#0:B:When I press login
+2019-10-14T12:08:01.8549974+01:00:Thread#0:T:done: BBCLoginSteps.WhenIPressLogin() (0.1s)
+2019-10-14T12:08:01.8549974+01:00:Thread#0:B:Then I should see the appropriate error
+2019-10-14T12:08:02.1229659+01:00:Thread#0:T:error:   Expected string length 58 but was 75. Strings differ at index 0.
+2019-10-14T12:08:02.1309720+01:00:Thread#0:T:  Expected: "sorry, that password isn't valid. Please include a letter."
+2019-10-14T12:08:02.1359653+01:00:Thread#0:T:  But was:  "Sorry, that password is too short. It needs to be eight chara..."
+2019-10-14T12:08:02.1509677+01:00:Thread#0:T:  -----------^
+2019-10-14T12:08:02.2249654+01:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-10-14T12:08:02.2469659+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T12:08:02.2469659+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-10-14T12:08:02.2479661+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-14T12:08:02.2479661+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-14T12:08:02.2479661+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-14T12:08:02.2479661+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-14T12:08:02.2479661+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-14T12:08:02.2489881+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-14T12:08:02.2489881+01:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-10-14T12:08:02.5849649+01:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 9.8217861 seconds
+2019-10-14T12:08:02.5939861+01:00:Thread#0: Test #4/1 is started on thread #0
+2019-10-14T12:08:02.6019692+01:00:Thread#0:B:Given I am on the login page
+2019-10-14T12:08:09.7119454+01:00:Thread#0:T:done: BBCLoginSteps.GivenIAmOnTheLoginPage() (7.1s)
+2019-10-14T12:08:09.7189501+01:00:Thread#0:B:And I have enter a valid username
+2019-10-14T12:08:10.1209453+01:00:Thread#0:T:done: BBCLoginSteps.GivenIHaveEnterAValidUsername() (0.4s)
+2019-10-14T12:08:10.1289431+01:00:Thread#0:B:And I have entered a invalid password
+2019-10-14T12:08:10.3309411+01:00:Thread#0:T:done: BBCLoginSteps.GivenIHaveEnteredAInvalidPassword() (0.2s)
+2019-10-14T12:08:10.3359460+01:00:Thread#0:B:When I press login
+2019-10-14T12:08:10.4829453+01:00:Thread#0:T:done: BBCLoginSteps.WhenIPressLogin() (0.1s)
+2019-10-14T12:08:10.4999403+01:00:Thread#0:B:Then I should see the appropriate error
+2019-10-14T12:08:10.5909467+01:00:Thread#0:T:error: Multiple failures or warnings in test:
+2019-10-14T12:08:10.5949445+01:00:Thread#0:T:  1)   Expected string length 58 but was 75. Strings differ at index 0.
+2019-10-14T12:08:10.5989453+01:00:Thread#0:T:  Expected: "sorry, that password isn't valid. Please include a letter."
+2019-10-14T12:08:10.6059472+01:00:Thread#0:T:  But was:  "Sorry, that password is too short. It needs to be eight chara..."
+2019-10-14T12:08:10.6109460+01:00:Thread#0:T:  -----------^
+2019-10-14T12:08:10.6149457+01:00:Thread#0:T:  2)   Expected string length 58 but was 75. Strings differ at index 0.
+2019-10-14T12:08:10.6199440+01:00:Thread#0:T:  Expected: "sorry, that password isn't valid. Please include a letter."
+2019-10-14T12:08:10.6259453+01:00:Thread#0:T:  But was:  "Sorry, that password is too short. It needs to be eight chara..."
+2019-10-14T12:08:10.6299437+01:00:Thread#0:T:  -----------^
+2019-10-14T12:08:10.6439406+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T12:08:10.6439406+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-10-14T12:08:10.6439406+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-14T12:08:10.6439406+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-14T12:08:10.6439406+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-14T12:08:10.6439406+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-14T12:08:10.6439406+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-14T12:08:10.6439406+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-14T12:08:10.6439406+01:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-10-14T12:08:10.8669416+01:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 8.2729555 seconds
+2019-10-14T12:08:10.8769409+01:00:Thread#0: Test #4/2 is started on thread #0
+2019-10-14T12:08:10.8829667+01:00:Thread#0:B:Given I am on the login page
+2019-10-14T12:08:19.0668024+01:00:Thread#0:T:done: BBCLoginSteps.GivenIAmOnTheLoginPage() (8.2s)
+2019-10-14T12:08:19.0737970+01:00:Thread#0:B:And I have enter a valid username
+2019-10-14T12:08:19.5257966+01:00:Thread#0:T:done: BBCLoginSteps.GivenIHaveEnterAValidUsername() (0.4s)
+2019-10-14T12:08:19.5327935+01:00:Thread#0:B:And I have entered a invalid password
+2019-10-14T12:08:19.7597956+01:00:Thread#0:T:done: BBCLoginSteps.GivenIHaveEnteredAInvalidPassword() (0.2s)
+2019-10-14T12:08:19.7647950+01:00:Thread#0:B:When I press login
+2019-10-14T12:08:19.9387967+01:00:Thread#0:T:done: BBCLoginSteps.WhenIPressLogin() (0.2s)
+2019-10-14T12:08:19.9457970+01:00:Thread#0:B:Then I should see the appropriate error
+2019-10-14T12:08:20.0758005+01:00:Thread#0:T:error: Multiple failures or warnings in test:
+2019-10-14T12:08:20.0817995+01:00:Thread#0:T:  1)   Expected string length 58 but was 75. Strings differ at index 0.
+2019-10-14T12:08:20.0878001+01:00:Thread#0:T:  Expected: "sorry, that password isn't valid. Please include a letter."
+2019-10-14T12:08:20.0927977+01:00:Thread#0:T:  But was:  "Sorry, that password is too short. It needs to be eight chara..."
+2019-10-14T12:08:20.0977929+01:00:Thread#0:T:  -----------^
+2019-10-14T12:08:20.1057934+01:00:Thread#0:T:  2)   Expected string length 58 but was 75. Strings differ at index 0.
+2019-10-14T12:08:20.1137937+01:00:Thread#0:T:  Expected: "sorry, that password isn't valid. Please include a letter."
+2019-10-14T12:08:20.1197965+01:00:Thread#0:T:  But was:  "Sorry, that password is too short. It needs to be eight chara..."
+2019-10-14T12:08:20.1257964+01:00:Thread#0:T:  -----------^
+2019-10-14T12:08:20.1317924+01:00:Thread#0:T:  3)   Expected string length 58 but was 75. Strings differ at index 0.
+2019-10-14T12:08:20.1397936+01:00:Thread#0:T:  Expected: "sorry, that password isn't valid. Please include a letter."
+2019-10-14T12:08:20.1457952+01:00:Thread#0:T:  But was:  "Sorry, that password is too short. It needs to be eight chara..."
+2019-10-14T12:08:20.1507964+01:00:Thread#0:T:  -----------^
+2019-10-14T12:08:20.1707955+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T12:08:20.1707955+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-14T12:08:20.1707955+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-14T12:08:20.1707955+01:00:Thread#0:Scheduler: No more tests for thread
+2019-10-14T12:08:22.5487886+01:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 11.6708508 seconds
+2019-10-14T12:08:22.5947933+01:00:Appdomain Disposed
+2019-10-14T12:08:22.5987889+01:00:Trying to cancel thread
+2019-10-14T12:08:22.5987889+01:00:Thread cancelled
+2019-10-14T12:08:22.6127881+01:00:Thread#-1:Scheduler: get next test for thread -1
+2019-10-14T12:08:22.6127881+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-14T12:08:22.6127881+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-10-14T12:08:22.6217879+01:00;Thread#14;Info;test run finished
+2019-10-14T12:08:22.6217879+01:00;Thread#14;Info;publishing test results
+2019-10-14T12:08:22.6387876+01:00;Thread#14;Info;test results published
+2019-10-14T12:08:22.6397869+01:00;Thread#14;Info;generating reports
+2019-10-14T12:08:22.8277871+01:00;Thread#14;Info;Starting external report generation process
+2019-10-14T12:08:25.0047811+01:00;Thread#14;Info;Successfully generated reports.
+2019-10-14T12:08:25.0077811+01:00;Thread#14;Info;Successfully generated reports
+2019-10-14T12:08:25.0197834+01:00:Total: 1 (test executions: 3)
+2019-10-14T12:08:25.0227851+01:00:Succeeded: 0
+2019-10-14T12:08:25.0237830+01:00:Ignored: 0
+2019-10-14T12:08:25.0247795+01:00:Pending: 0
+2019-10-14T12:08:25.0247795+01:00:Skipped: 0
+2019-10-14T12:08:25.0247795+01:00:Failed: 1
+2019-10-14T12:08:25.0457801+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-10-14T12:08:25.0457801+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults\Unnamed project__2019-10-14T120738.html'
+========== End of log file ==========

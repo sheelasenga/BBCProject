@@ -1,0 +1,146 @@
+﻿2019-10-14T15:48:42.8986767+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-14T15:48:42.8986767+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-14T15:48:42.8986767+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-14T15:48:42.9476655+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-14T15:48:42.9476655+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults" (default)
+2019-10-14T15:48:42.9486648+01:00;VSTestExecutionThread;Info;Profile: 
+2019-10-14T15:48:42.9716685+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults\Unnamed project__2019-10-14T154842.log
+2019-10-14T15:48:42.9836705+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-14T15:48:42.9916637+01:00;Thread#13;Info;Checking license
+2019-10-14T15:48:43.0106655+01:00;Thread#13;Info;Evaluation mode: test execution starts in 11 seconds... (this delay is removed in the registered version)
+2019-10-14T15:48:54.0119600+01:00;Thread#13;Info;Evaluation delay finished.
+2019-10-14T15:48:54.0259638+01:00;Thread#13;Info;License check completed
+2019-10-14T15:48:54.0279634+01:00;Thread#13;Info;starting test run
+2019-10-14T15:48:54.0469649+01:00;Thread#13;Info;Discovering target: Default
+2019-10-14T15:48:54.0469649+01:00;Thread#13;Info;Discovering tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-14T15:48:54.9069690+01:00:Appdomain Disposed
+2019-10-14T15:48:54.9069690+01:00;Thread#13;Info;Discovered tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-14T15:48:54.9089696+01:00:Test Suite Dump
+2019-10-14T15:48:54.9109676+01:00:#0: Unnamed project/ - 
+2019-10-14T15:48:54.9109676+01:00:#1: Default - 
+2019-10-14T15:48:54.9109676+01:00:#2: CSharpSpecFlowSelenium - 
+2019-10-14T15:48:54.9109676+01:00:#3: BBCLogin1 - 
+2019-10-14T15:48:54.9829687+01:00:#4: Invalid password - TestAssembly:CSharpSpecFlowSelenium/Feature:BBCLogin1/Scenario:Invalid+password
+2019-10-14T15:48:54.9839728+01:00:#5: Valid password - TestAssembly:CSharpSpecFlowSelenium/Feature:BBCLogin1/Scenario:Valid+password
+2019-10-14T15:48:54.9839728+01:00:End: Test Suite Dump
+2019-10-14T15:48:55.0179826+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T15:48:55.0249693+01:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-10-14T15:48:55.0249693+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-14T15:48:55.0309685+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-14T15:48:55.0309685+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-14T15:48:55.0309685+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-14T15:48:55.0309685+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-14T15:48:55.0329692+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-14T15:48:55.0339668+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-14T15:48:55.0409656+01:00:Thread #0: creating new test thread executor for CSharpSpecFlowSelenium, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-14T15:48:55.0439665+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-14T15:48:55.0449682+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-14T15:48:55.0459671+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-14T15:48:55.1779681+01:00:Thread#0: Test #4/0 is started on thread #0
+2019-10-14T15:48:55.4419745+01:00:Thread#0:T:-> Loading plugin C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-14T15:48:55.4559730+01:00:Thread#0:T:-> Using default config
+2019-10-14T15:48:58.9532483+01:00:Thread#0:B:Given I am on the login page
+2019-10-14T15:49:00.3591665+01:00:Thread#0:T:done: BBCLoginSteps.GivenIAmOnTheLoginPage() (1.4s)
+2019-10-14T15:49:00.3611664+01:00:Thread#0:B:And I have enter a valid username
+2019-10-14T15:49:01.1341885+01:00:Thread#0:T:done: BBCLoginSteps.GivenIHaveEnterAValidUsername() (0.8s)
+2019-10-14T15:49:01.1341885+01:00:Thread#0:B:And I have entered a invalid password
+2019-10-14T15:49:01.4801744+01:00:Thread#0:T:done: BBCLoginSteps.GivenIHaveEnteredAInvalidPassword() (0.3s)
+2019-10-14T15:49:01.4811738+01:00:Thread#0:B:When I press login
+2019-10-14T15:49:01.6281735+01:00:Thread#0:T:done: BBCLoginSteps.WhenIPressLogin() (0.1s)
+2019-10-14T15:49:01.6291740+01:00:Thread#0:B:Then I should see the appropriate error
+2019-10-14T15:49:01.7611739+01:00:Thread#0:T:done: BBCLoginSteps.ThenIShouldSeeTheAppropriateError() (0.1s)
+2019-10-14T15:49:01.8051730+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T15:49:01.8051730+01:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-10-14T15:49:01.8051730+01:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-10-14T15:49:01.8051730+01:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-14T15:49:01.8051730+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-10-14T15:49:01.8051730+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-10-14T15:49:01.8051730+01:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-10-14T15:49:01.8061732+01:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-10-14T15:49:01.8061732+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-14T15:49:01.9481738+01:00:Thread#0: Test #4/0 is finished on thread #0 as CleanupFailed within 6.7682201 seconds
+2019-10-14T15:49:01.9581770+01:00:Thread#0: Test #5/0 is started on thread #0
+2019-10-14T15:49:01.9701756+01:00:Thread#0:T:warning: The previous FeatureContext was not disposed.
+2019-10-14T15:49:01.9811732+01:00:Thread#0:T:warning: The previous ScenarioContext was not disposed.
+2019-10-14T15:49:04.9191906+01:00:Thread#0:B:Given I am on the bbc login page
+2019-10-14T15:49:04.9331908+01:00:Thread#0:T:error: Object reference not set to an instance of an object.
+2019-10-14T15:49:04.9641896+01:00:Thread#0:B:And I have entered a valid username
+2019-10-14T15:49:04.9721903+01:00:Thread#0:T:skipped because of previous errors
+2019-10-14T15:49:04.9902067+01:00:Thread#0:B:And I have entered a valid password
+2019-10-14T15:49:04.9961903+01:00:Thread#0:T:skipped because of previous errors
+2019-10-14T15:49:05.0021895+01:00:Thread#0:B:When I press login btn
+2019-10-14T15:49:05.0081939+01:00:Thread#0:T:skipped because of previous errors
+2019-10-14T15:49:05.0141903+01:00:Thread#0:B:Then I should see the user account homepage
+2019-10-14T15:49:05.0211874+01:00:Thread#0:T:skipped because of previous errors
+2019-10-14T15:49:05.0331898+01:00:Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+2019-10-14T15:49:05.0402210+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T15:49:05.0411970+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2019-10-14T15:49:05.0411970+01:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-10-14T15:49:05.0411970+01:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-14T15:49:05.0411970+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-10-14T15:49:05.0411970+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-10-14T15:49:05.0411970+01:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-10-14T15:49:05.0411970+01:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-10-14T15:49:05.0411970+01:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-10-14T15:49:05.0501899+01:00:Thread#0: Test #5/0 is finished on thread #0 as Failed within 3.0920129 seconds
+2019-10-14T15:49:05.0851912+01:00:Thread#0: Test #5/1 is started on thread #0
+2019-10-14T15:49:05.0941920+01:00:Thread#0:T:warning: The previous ScenarioContext was not disposed.
+2019-10-14T15:49:07.7557344+01:00:Thread#0:B:Given I am on the bbc login page
+2019-10-14T15:49:07.7657334+01:00:Thread#0:T:error: Object reference not set to an instance of an object.
+2019-10-14T15:49:07.7737354+01:00:Thread#0:B:And I have entered a valid username
+2019-10-14T15:49:07.7797347+01:00:Thread#0:T:skipped because of previous errors
+2019-10-14T15:49:07.7877349+01:00:Thread#0:B:And I have entered a valid password
+2019-10-14T15:49:07.7947362+01:00:Thread#0:T:skipped because of previous errors
+2019-10-14T15:49:07.8007384+01:00:Thread#0:B:When I press login btn
+2019-10-14T15:49:07.8077349+01:00:Thread#0:T:skipped because of previous errors
+2019-10-14T15:49:07.8147342+01:00:Thread#0:B:Then I should see the user account homepage
+2019-10-14T15:49:07.8607326+01:00:Thread#0:T:skipped because of previous errors
+2019-10-14T15:49:07.8967350+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T15:49:07.8967350+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2019-10-14T15:49:07.8967350+01:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-10-14T15:49:07.8967350+01:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-14T15:49:07.8967350+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-10-14T15:49:07.8967350+01:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-10-14T15:49:07.8967350+01:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-10-14T15:49:07.8967350+01:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-10-14T15:49:07.8967350+01:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-10-14T15:49:07.9377330+01:00:Thread#0: Test #5/1 is finished on thread #0 as Failed within 2.8515397 seconds
+2019-10-14T15:49:07.9457339+01:00:Thread#0: Test #5/2 is started on thread #0
+2019-10-14T15:49:07.9567345+01:00:Thread#0:T:warning: The previous ScenarioContext was not disposed.
+2019-10-14T15:49:11.6807541+01:00:Thread#0:B:Given I am on the bbc login page
+2019-10-14T15:49:11.6887521+01:00:Thread#0:T:error: Object reference not set to an instance of an object.
+2019-10-14T15:49:11.6957563+01:00:Thread#0:B:And I have entered a valid username
+2019-10-14T15:49:11.7027889+01:00:Thread#0:T:skipped because of previous errors
+2019-10-14T15:49:11.7097538+01:00:Thread#0:B:And I have entered a valid password
+2019-10-14T15:49:11.7157528+01:00:Thread#0:T:skipped because of previous errors
+2019-10-14T15:49:11.7237533+01:00:Thread#0:B:When I press login btn
+2019-10-14T15:49:11.7297551+01:00:Thread#0:T:skipped because of previous errors
+2019-10-14T15:49:11.7437535+01:00:Thread#0:B:Then I should see the user account homepage
+2019-10-14T15:49:11.7537571+01:00:Thread#0:T:skipped because of previous errors
+2019-10-14T15:49:11.7727536+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T15:49:11.7727536+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-14T15:49:11.7727536+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-14T15:49:11.7727536+01:00:Thread#0:Scheduler: No more tests for thread
+2019-10-14T15:49:11.7847530+01:00:Thread#0: Test #5/2 is finished on thread #0 as Failed within 3.8390191 seconds
+2019-10-14T15:49:11.8737498+01:00:Appdomain Disposed
+2019-10-14T15:49:11.8767547+01:00:Trying to cancel thread
+2019-10-14T15:49:11.8767547+01:00:Thread cancelled
+2019-10-14T15:49:11.8897542+01:00:Thread#-1:Scheduler: get next test for thread -1
+2019-10-14T15:49:11.8897542+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-14T15:49:11.8897542+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-10-14T15:49:11.9117560+01:00;Thread#13;Info;test run finished
+2019-10-14T15:49:11.9127575+01:00;Thread#13;Info;publishing test results
+2019-10-14T15:49:12.0537543+01:00;Thread#13;Info;test results published
+2019-10-14T15:49:12.0537543+01:00;Thread#13;Info;generating reports
+2019-10-14T15:49:12.4407605+01:00;Thread#13;Info;Starting external report generation process
+2019-10-14T15:49:15.3537713+01:00;Thread#13;Info;Successfully generated reports.
+2019-10-14T15:49:15.3587741+01:00;Thread#13;Info;Successfully generated reports
+2019-10-14T15:49:15.3747799+01:00:Total: 2 (test executions: 4)
+2019-10-14T15:49:15.3797739+01:00:Succeeded: 0
+2019-10-14T15:49:15.3817739+01:00:Ignored: 0
+2019-10-14T15:49:15.3837704+01:00:Pending: 0
+2019-10-14T15:49:15.3837704+01:00:Skipped: 0
+2019-10-14T15:49:15.3847707+01:00:Failed: 2
+2019-10-14T15:49:15.4057746+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-10-14T15:49:15.4057746+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults\Unnamed project__2019-10-14T154842.html'
+========== End of log file ==========

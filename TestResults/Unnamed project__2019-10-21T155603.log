@@ -1,0 +1,108 @@
+﻿2019-10-21T15:56:03.4536870+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-21T15:56:03.4536870+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-21T15:56:03.4536870+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-21T15:56:03.5686873+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-21T15:56:03.5686873+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults" (default)
+2019-10-21T15:56:03.5696944+01:00;VSTestExecutionThread;Info;Profile: 
+2019-10-21T15:56:03.6186853+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults\Unnamed project__2019-10-21T155603.log
+2019-10-21T15:56:03.6416850+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-21T15:56:03.6576836+01:00;Thread#13;Info;Checking license
+2019-10-21T15:56:03.7076844+01:00;Thread#13;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2019-10-21T15:56:17.7098085+01:00;Thread#13;Info;Evaluation delay finished.
+2019-10-21T15:56:17.7318109+01:00;Thread#13;Info;License check completed
+2019-10-21T15:56:17.7328047+01:00;Thread#13;Info;starting test run
+2019-10-21T15:56:17.7578048+01:00;Thread#13;Info;Discovering target: Default
+2019-10-21T15:56:17.7588074+01:00;Thread#13;Info;Discovering tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-21T15:56:18.6408072+01:00:Appdomain Disposed
+2019-10-21T15:56:18.6408072+01:00;Thread#13;Info;Discovered tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-21T15:56:18.6418064+01:00:Test Suite Dump
+2019-10-21T15:56:18.6448044+01:00:#0: Unnamed project/ - 
+2019-10-21T15:56:18.6448044+01:00:#1: Default - 
+2019-10-21T15:56:18.6448044+01:00:#2: CSharpSpecFlowSelenium - 
+2019-10-21T15:56:18.6448044+01:00:#3: BBCLogin1 - 
+2019-10-21T15:56:18.7248055+01:00:#6: successful sign out - TestAssembly:CSharpSpecFlowSelenium/Feature:BBCLogin1/Scenario:successful+sign+out
+2019-10-21T15:56:18.7248055+01:00:End: Test Suite Dump
+2019-10-21T15:56:18.7738098+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T15:56:18.7768033+01:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2019-10-21T15:56:18.7778069+01:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-10-21T15:56:18.7838037+01:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T15:56:18.7838037+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-10-21T15:56:18.7838037+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-10-21T15:56:18.7838037+01:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-10-21T15:56:18.7868065+01:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-10-21T15:56:18.7878052+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-21T15:56:18.8008017+01:00:Thread #0: creating new test thread executor for CSharpSpecFlowSelenium, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-21T15:56:18.8048074+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-21T15:56:18.8058070+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-21T15:56:18.8068032+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-21T15:56:18.9628049+01:00:Thread#0: Test #6/0 is started on thread #0
+2019-10-21T15:56:19.1828045+01:00:Thread#0:T:-> Loading plugin C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-21T15:56:19.1938054+01:00:Thread#0:T:-> Using default config
+2019-10-21T15:56:25.9033843+01:00:Thread#0:B:Given i am on the account page
+2019-10-21T15:56:25.9363645+01:00:Thread#0:T:done: BBCSignoutSteps.GivenIAmOnTheAccountPage() (0.0s)
+2019-10-21T15:56:25.9383645+01:00:Thread#0:B:When i press the sign out button
+2019-10-21T15:56:26.1093630+01:00:Thread#0:T:error: Could not find element by: By.XPath: [@id='container']/div/div/div[1]/div[1]/div/div/div/div/nav/ul/li[3]/a
+2019-10-21T15:56:26.1103649+01:00:Thread#0:B:Then i should see the sign out page
+2019-10-21T15:56:26.1113622+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T15:56:26.1993645+01:00:Thread#0:TestItem#6:Scheduler: reschedule tests for testitem #6
+2019-10-21T15:56:26.2013641+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T15:56:26.2013641+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2019-10-21T15:56:26.2013641+01:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-10-21T15:56:26.2013641+01:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T15:56:26.2013641+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-10-21T15:56:26.2013641+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-10-21T15:56:26.2013641+01:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-10-21T15:56:26.2013641+01:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-10-21T15:56:26.2013641+01:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-10-21T15:56:26.5743676+01:00:Thread#0: Test #6/0 is finished on thread #0 as Failed within 7.6095632 seconds
+2019-10-21T15:56:26.5813625+01:00:Thread#0: Test #6/1 is started on thread #0
+2019-10-21T15:56:33.3672893+01:00:Thread#0:B:Given i am on the account page
+2019-10-21T15:56:33.3682875+01:00:Thread#0:T:done: BBCSignoutSteps.GivenIAmOnTheAccountPage() (0.0s)
+2019-10-21T15:56:33.3682875+01:00:Thread#0:B:When i press the sign out button
+2019-10-21T15:56:33.4322949+01:00:Thread#0:T:error: Could not find element by: By.XPath: [@id='container']/div/div/div[1]/div[1]/div/div/div/div/nav/ul/li[3]/a
+2019-10-21T15:56:33.4332896+01:00:Thread#0:B:Then i should see the sign out page
+2019-10-21T15:56:33.4332896+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T15:56:33.4342927+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T15:56:33.4342927+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2019-10-21T15:56:33.4342927+01:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-10-21T15:56:33.4342927+01:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T15:56:33.4342927+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-10-21T15:56:33.4342927+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-10-21T15:56:33.4342927+01:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-10-21T15:56:33.4342927+01:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-10-21T15:56:33.4352911+01:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-10-21T15:56:33.8128160+01:00:Thread#0: Test #6/1 is finished on thread #0 as Failed within 7.2314535 seconds
+2019-10-21T15:56:33.8128160+01:00:Thread#0: Test #6/2 is started on thread #0
+2019-10-21T15:56:42.4915352+01:00:Thread#0:B:Given i am on the account page
+2019-10-21T15:56:42.4915352+01:00:Thread#0:T:done: BBCSignoutSteps.GivenIAmOnTheAccountPage() (0.0s)
+2019-10-21T15:56:42.4915352+01:00:Thread#0:B:When i press the sign out button
+2019-10-21T15:56:42.5295389+01:00:Thread#0:T:error: Could not find element by: By.XPath: [@id='container']/div/div/div[1]/div[1]/div/div/div/div/nav/ul/li[3]/a
+2019-10-21T15:56:42.5295389+01:00:Thread#0:B:Then i should see the sign out page
+2019-10-21T15:56:42.5295389+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T15:56:42.5305364+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T15:56:42.5305364+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-21T15:56:42.5305364+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-21T15:56:42.5305364+01:00:Thread#0:Scheduler: No more tests for thread
+2019-10-21T15:56:42.9135356+01:00:Thread#0: Test #6/2 is finished on thread #0 as Failed within 9.1007196 seconds
+2019-10-21T15:56:42.9575368+01:00:Appdomain Disposed
+2019-10-21T15:56:42.9605356+01:00:Trying to cancel thread
+2019-10-21T15:56:42.9605356+01:00:Thread cancelled
+2019-10-21T15:56:42.9755371+01:00:Thread#-1:Scheduler: get next test for thread -1
+2019-10-21T15:56:42.9755371+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-21T15:56:42.9755371+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-10-21T15:56:42.9895370+01:00;Thread#13;Info;test run finished
+2019-10-21T15:56:42.9905350+01:00;Thread#13;Info;publishing test results
+2019-10-21T15:56:43.0115349+01:00;Thread#13;Info;test results published
+2019-10-21T15:56:43.0115349+01:00;Thread#13;Info;generating reports
+2019-10-21T15:56:43.3275337+01:00;Thread#13;Info;Starting external report generation process
+2019-10-21T15:56:48.3005412+01:00;Thread#13;Info;Successfully generated reports.
+2019-10-21T15:56:48.3055371+01:00;Thread#13;Info;Successfully generated reports
+2019-10-21T15:56:48.3235349+01:00:Total: 1 (test executions: 3)
+2019-10-21T15:56:48.3265330+01:00:Succeeded: 0
+2019-10-21T15:56:48.3265330+01:00:Ignored: 0
+2019-10-21T15:56:48.3275357+01:00:Pending: 0
+2019-10-21T15:56:48.3275357+01:00:Skipped: 0
+2019-10-21T15:56:48.3285353+01:00:Failed: 1
+2019-10-21T15:56:48.3555366+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-10-21T15:56:48.3565360+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults\Unnamed project__2019-10-21T155603.html'
+========== End of log file ==========

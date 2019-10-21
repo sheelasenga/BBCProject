@@ -1,0 +1,77 @@
+﻿2019-10-14T14:37:09.3206196+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-14T14:37:09.3206196+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-14T14:37:09.3206196+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-14T14:37:09.3786195+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-14T14:37:09.3796193+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults" (default)
+2019-10-14T14:37:09.3796193+01:00;VSTestExecutionThread;Info;Profile: 
+2019-10-14T14:37:09.4136175+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults\Unnamed project__2019-10-14T143709.log
+2019-10-14T14:37:09.4366212+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-14T14:37:09.4456184+01:00;Thread#13;Info;Checking license
+2019-10-14T14:37:09.4786192+01:00;Thread#13;Info;Evaluation mode: test execution starts in 7 seconds... (this delay is removed in the registered version)
+2019-10-14T14:37:16.4803587+01:00;Thread#13;Info;Evaluation delay finished.
+2019-10-14T14:37:16.4903590+01:00;Thread#13;Info;License check completed
+2019-10-14T14:37:16.4913615+01:00;Thread#13;Info;starting test run
+2019-10-14T14:37:16.5093597+01:00;Thread#13;Info;Discovering target: Default
+2019-10-14T14:37:16.5103627+01:00;Thread#13;Info;Discovering tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-14T14:37:17.3173587+01:00:Appdomain Disposed
+2019-10-14T14:37:17.3173587+01:00;Thread#13;Info;Discovered tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-14T14:37:17.3193634+01:00:Test Suite Dump
+2019-10-14T14:37:17.3213620+01:00:#0: Unnamed project/ - 
+2019-10-14T14:37:17.3213620+01:00:#1: Default - 
+2019-10-14T14:37:17.3213620+01:00:#2: CSharpSpecFlowSelenium - 
+2019-10-14T14:37:17.3213620+01:00:#3: BBCLogin1 - 
+2019-10-14T14:37:17.3873627+01:00:#4: Invalid password - TestAssembly:CSharpSpecFlowSelenium/Feature:BBCLogin1/Scenario:Invalid+password
+2019-10-14T14:37:17.3873627+01:00:End: Test Suite Dump
+2019-10-14T14:37:17.4473585+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T14:37:17.4583613+01:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-10-14T14:37:17.4593621+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-14T14:37:17.4683609+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-14T14:37:17.4683609+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-14T14:37:17.4683609+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-14T14:37:17.4683609+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-14T14:37:17.4703613+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-14T14:37:17.4743623+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-14T14:37:17.4793637+01:00:Thread #0: creating new test thread executor for CSharpSpecFlowSelenium, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-14T14:37:17.4833593+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-14T14:37:17.4843599+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-14T14:37:17.4913613+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-14T14:37:17.6763588+01:00:Thread#0: Test #4/0 is started on thread #0
+2019-10-14T14:37:17.9083619+01:00:Thread#0:T:-> Loading plugin C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-14T14:37:17.9213630+01:00:Thread#0:T:-> Using default config
+2019-10-14T14:37:18.0093631+01:00:Thread#0:B:Given I am on the login page
+2019-10-14T14:37:27.8288810+01:00:Thread#0:T:done: BBCLoginSteps.GivenIAmOnTheLoginPage() (9.6s)
+2019-10-14T14:37:27.8298783+01:00:Thread#0:B:And I have enter a valid username
+2019-10-14T14:37:29.2658784+01:00:Thread#0:T:done: BBCLoginSteps.GivenIHaveEnterAValidUsername() (1.4s)
+2019-10-14T14:37:29.2668772+01:00:Thread#0:B:And I have entered a invalid password
+2019-10-14T14:37:30.2338787+01:00:Thread#0:T:done: BBCLoginSteps.GivenIHaveEnteredAInvalidPassword() (1.0s)
+2019-10-14T14:37:30.2348807+01:00:Thread#0:B:When I press login
+2019-10-14T14:37:30.4378819+01:00:Thread#0:T:done: BBCLoginSteps.WhenIPressLogin() (0.2s)
+2019-10-14T14:37:30.4378819+01:00:Thread#0:B:Then I should see the appropriate error
+2019-10-14T14:37:30.6078823+01:00:Thread#0:T:done: BBCLoginSteps.ThenIShouldSeeTheAppropriateError() (0.2s)
+2019-10-14T14:37:30.6458793+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T14:37:30.6458793+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-14T14:37:30.6458793+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-14T14:37:30.6458793+01:00:Thread#0:Scheduler: No more tests for thread
+2019-10-14T14:37:31.1758786+01:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 13.4985213 seconds
+2019-10-14T14:37:31.2188796+01:00:Appdomain Disposed
+2019-10-14T14:37:31.2208815+01:00:Trying to cancel thread
+2019-10-14T14:37:31.2208815+01:00:Thread cancelled
+2019-10-14T14:37:31.2328814+01:00:Thread#-1:Scheduler: get next test for thread -1
+2019-10-14T14:37:31.2328814+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-14T14:37:31.2328814+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-10-14T14:37:31.2408797+01:00;Thread#13;Info;test run finished
+2019-10-14T14:37:31.2418796+01:00;Thread#13;Info;publishing test results
+2019-10-14T14:37:31.2588792+01:00;Thread#13;Info;test results published
+2019-10-14T14:37:31.2588792+01:00;Thread#13;Info;generating reports
+2019-10-14T14:37:31.5078820+01:00;Thread#13;Info;Starting external report generation process
+2019-10-14T14:37:35.8201568+01:00;Thread#13;Info;Successfully generated reports.
+2019-10-14T14:37:35.8328791+01:00;Thread#13;Info;Successfully generated reports
+2019-10-14T14:37:35.8509033+01:00:Total: 1
+2019-10-14T14:37:35.8588811+01:00:Succeeded: 1
+2019-10-14T14:37:35.8598790+01:00:Ignored: 0
+2019-10-14T14:37:35.8608805+01:00:Pending: 0
+2019-10-14T14:37:35.8608805+01:00:Skipped: 0
+2019-10-14T14:37:35.8618818+01:00:Failed: 0
+2019-10-14T14:37:35.9009040+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-10-14T14:37:35.9009040+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults\Unnamed project__2019-10-14T143709.html'
+========== End of log file ==========

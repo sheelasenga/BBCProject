@@ -1,0 +1,123 @@
+﻿2019-10-14T12:09:08.9272934+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-14T12:09:08.9272934+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-14T12:09:08.9272934+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-14T12:09:08.9772958+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-14T12:09:08.9782985+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults" (default)
+2019-10-14T12:09:08.9782985+01:00;VSTestExecutionThread;Info;Profile: 
+2019-10-14T12:09:09.0053032+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults\Unnamed project__2019-10-14T120908.log
+2019-10-14T12:09:09.0192953+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-14T12:09:09.0262947+01:00;Thread#13;Info;Checking license
+2019-10-14T12:09:09.0692977+01:00;Thread#13;Info;Evaluation mode: test execution starts in 6 seconds... (this delay is removed in the registered version)
+2019-10-14T12:09:15.0705931+01:00;Thread#13;Info;Evaluation delay finished.
+2019-10-14T12:09:15.0765819+01:00;Thread#13;Info;License check completed
+2019-10-14T12:09:15.0765819+01:00;Thread#13;Info;starting test run
+2019-10-14T12:09:15.0975819+01:00;Thread#13;Info;Discovering target: Default
+2019-10-14T12:09:15.0985809+01:00;Thread#13;Info;Discovering tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-14T12:09:15.5336303+01:00:Appdomain Disposed
+2019-10-14T12:09:15.5336303+01:00;Thread#13;Info;Discovered tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-14T12:09:15.5345805+01:00:Test Suite Dump
+2019-10-14T12:09:15.5355793+01:00:#0: Unnamed project/ - 
+2019-10-14T12:09:15.5355793+01:00:#1: Default - 
+2019-10-14T12:09:15.5355793+01:00:#2: CSharpSpecFlowSelenium - 
+2019-10-14T12:09:15.5355793+01:00:#3: BBCLogin1 - 
+2019-10-14T12:09:15.5776262+01:00:#4: Invalid password - TestAssembly:CSharpSpecFlowSelenium/Feature:BBCLogin1/Scenario:Invalid+password
+2019-10-14T12:09:15.5776262+01:00:End: Test Suite Dump
+2019-10-14T12:09:15.5996215+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T12:09:15.6016191+01:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-10-14T12:09:15.6016191+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-14T12:09:15.6056177+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-14T12:09:15.6056177+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-14T12:09:15.6056177+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-14T12:09:15.6056177+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-14T12:09:15.6066180+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-14T12:09:15.6076217+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-14T12:09:15.6096223+01:00:Thread #0: creating new test thread executor for CSharpSpecFlowSelenium, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-14T12:09:15.6125792+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-14T12:09:15.6135833+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-14T12:09:15.6155878+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-14T12:09:15.7045816+01:00:Thread#0: Test #4/0 is started on thread #0
+2019-10-14T12:09:15.8715783+01:00:Thread#0:T:-> Loading plugin C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-14T12:09:15.8815798+01:00:Thread#0:T:-> Using default config
+2019-10-14T12:09:15.9625788+01:00:Thread#0:B:Given I am on the login page
+2019-10-14T12:09:23.5998784+01:00:Thread#0:T:done: BBCLoginSteps.GivenIAmOnTheLoginPage() (7.5s)
+2019-10-14T12:09:23.6008795+01:00:Thread#0:B:And I have enter a valid username
+2019-10-14T12:09:24.1338791+01:00:Thread#0:T:done: BBCLoginSteps.GivenIHaveEnterAValidUsername() (0.5s)
+2019-10-14T12:09:24.1348776+01:00:Thread#0:B:And I have entered a invalid password
+2019-10-14T12:09:24.6178787+01:00:Thread#0:T:done: BBCLoginSteps.GivenIHaveEnteredAInvalidPassword() (0.5s)
+2019-10-14T12:09:24.6178787+01:00:Thread#0:B:When I press login
+2019-10-14T12:09:27.1568706+01:00:Thread#0:T:done: BBCLoginSteps.WhenIPressLogin() (2.5s)
+2019-10-14T12:09:27.1578706+01:00:Thread#0:B:Then I should see the appropriate error
+2019-10-14T12:09:27.2618712+01:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"css selector","selector":"#form\-message\-password"}
+2019-10-14T12:09:27.2618712+01:00:Thread#0:T:  (Session info: chrome=77.0.3865.90)
+2019-10-14T12:09:27.3328716+01:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-10-14T12:09:27.3338717+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T12:09:27.3338717+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-10-14T12:09:27.3338717+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-14T12:09:27.3338717+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-14T12:09:27.3338717+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-14T12:09:27.3338717+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-14T12:09:27.3338717+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-14T12:09:27.3338717+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-14T12:09:27.3338717+01:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-10-14T12:09:27.6038686+01:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 11.899287 seconds
+2019-10-14T12:09:27.6068689+01:00:Thread#0: Test #4/1 is started on thread #0
+2019-10-14T12:09:27.6078674+01:00:Thread#0:B:Given I am on the login page
+2019-10-14T12:09:35.4824902+01:00:Thread#0:T:done: BBCLoginSteps.GivenIAmOnTheLoginPage() (7.9s)
+2019-10-14T12:09:35.4834891+01:00:Thread#0:B:And I have enter a valid username
+2019-10-14T12:09:36.0224882+01:00:Thread#0:T:done: BBCLoginSteps.GivenIHaveEnterAValidUsername() (0.5s)
+2019-10-14T12:09:36.0234867+01:00:Thread#0:B:And I have entered a invalid password
+2019-10-14T12:09:36.3684865+01:00:Thread#0:T:done: BBCLoginSteps.GivenIHaveEnteredAInvalidPassword() (0.3s)
+2019-10-14T12:09:36.3684865+01:00:Thread#0:B:When I press login
+2019-10-14T12:09:39.0174787+01:00:Thread#0:T:done: BBCLoginSteps.WhenIPressLogin() (2.6s)
+2019-10-14T12:09:39.0174787+01:00:Thread#0:B:Then I should see the appropriate error
+2019-10-14T12:09:39.0654785+01:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"css selector","selector":"#form\-message\-password"}
+2019-10-14T12:09:39.0654785+01:00:Thread#0:T:  (Session info: chrome=77.0.3865.90)
+2019-10-14T12:09:39.0664796+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T12:09:39.0664796+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-10-14T12:09:39.0664796+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-10-14T12:09:39.0664796+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-14T12:09:39.0664796+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-10-14T12:09:39.0664796+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-10-14T12:09:39.0664796+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-10-14T12:09:39.0664796+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-10-14T12:09:39.0664796+01:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-10-14T12:09:41.4584751+01:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 13.8516062 seconds
+2019-10-14T12:09:41.4584751+01:00:Thread#0: Test #4/2 is started on thread #0
+2019-10-14T12:09:41.4594723+01:00:Thread#0:B:Given I am on the login page
+2019-10-14T12:09:48.5000592+01:00:Thread#0:T:done: BBCLoginSteps.GivenIAmOnTheLoginPage() (7.0s)
+2019-10-14T12:09:48.5000592+01:00:Thread#0:B:And I have enter a valid username
+2019-10-14T12:09:48.9050532+01:00:Thread#0:T:done: BBCLoginSteps.GivenIHaveEnterAValidUsername() (0.4s)
+2019-10-14T12:09:48.9050532+01:00:Thread#0:B:And I have entered a invalid password
+2019-10-14T12:09:49.1860505+01:00:Thread#0:T:done: BBCLoginSteps.GivenIHaveEnteredAInvalidPassword() (0.3s)
+2019-10-14T12:09:49.1860505+01:00:Thread#0:B:When I press login
+2019-10-14T12:09:52.1770424+01:00:Thread#0:T:done: BBCLoginSteps.WhenIPressLogin() (3.0s)
+2019-10-14T12:09:52.1780414+01:00:Thread#0:B:Then I should see the appropriate error
+2019-10-14T12:09:52.2170411+01:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"css selector","selector":"#form\-message\-password"}
+2019-10-14T12:09:52.2170411+01:00:Thread#0:T:  (Session info: chrome=77.0.3865.90)
+2019-10-14T12:09:52.2170411+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T12:09:52.2170411+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-14T12:09:52.2170411+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-14T12:09:52.2170411+01:00:Thread#0:Scheduler: No more tests for thread
+2019-10-14T12:09:52.5280568+01:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 11.0695817 seconds
+2019-10-14T12:09:52.5570428+01:00:Appdomain Disposed
+2019-10-14T12:09:52.5600428+01:00:Trying to cancel thread
+2019-10-14T12:09:52.5600428+01:00:Thread cancelled
+2019-10-14T12:09:52.5710435+01:00:Thread#-1:Scheduler: get next test for thread -1
+2019-10-14T12:09:52.5710435+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-14T12:09:52.5710435+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-10-14T12:09:52.5790414+01:00;Thread#13;Info;test run finished
+2019-10-14T12:09:52.5800434+01:00;Thread#13;Info;publishing test results
+2019-10-14T12:09:52.5970405+01:00;Thread#13;Info;test results published
+2019-10-14T12:09:52.5970405+01:00;Thread#13;Info;generating reports
+2019-10-14T12:09:52.7960399+01:00;Thread#13;Info;Starting external report generation process
+2019-10-14T12:09:54.6630360+01:00;Thread#13;Info;Successfully generated reports.
+2019-10-14T12:09:54.6660684+01:00;Thread#13;Info;Successfully generated reports
+2019-10-14T12:09:54.6780353+01:00:Total: 1 (test executions: 3)
+2019-10-14T12:09:54.6810365+01:00:Succeeded: 0
+2019-10-14T12:09:54.6820341+01:00:Ignored: 0
+2019-10-14T12:09:54.6830354+01:00:Pending: 0
+2019-10-14T12:09:54.6830354+01:00:Skipped: 0
+2019-10-14T12:09:54.6840344+01:00:Failed: 1
+2019-10-14T12:09:54.7010451+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-10-14T12:09:54.7010451+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults\Unnamed project__2019-10-14T120908.html'
+========== End of log file ==========

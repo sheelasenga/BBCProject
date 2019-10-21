@@ -1,0 +1,26 @@
+﻿2019-10-14T12:05:32.7988541+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-14T12:05:32.7988541+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-14T12:05:32.7988541+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-14T12:05:32.8458576+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-14T12:05:32.8458576+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults" (default)
+2019-10-14T12:05:32.8468582+01:00;VSTestExecutionThread;Info;Profile: 
+2019-10-14T12:05:32.8738569+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults\Unnamed project__2019-10-14T120532.log
+2019-10-14T12:05:32.8928579+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-14T12:05:32.9008566+01:00;Thread#13;Info;Checking license
+2019-10-14T12:05:32.9288538+01:00;Thread#13;Info;Evaluation mode: test execution starts in 11 seconds... (this delay is removed in the registered version)
+2019-10-14T12:05:43.9305405+01:00;Thread#13;Info;Evaluation delay finished.
+2019-10-14T12:05:43.9385506+01:00;Thread#13;Info;License check completed
+2019-10-14T12:05:43.9395658+01:00;Thread#13;Info;starting test run
+2019-10-14T12:05:43.9535501+01:00;Thread#13;Info;Discovering target: Default
+2019-10-14T12:05:43.9545469+01:00;Thread#13;Info;Discovering tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-14T12:05:44.1355400+01:00:Appdomain Disposed
+2019-10-14T12:05:44.1355400+01:00;Thread#13;Info;Discovered tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-14T12:05:44.1425435+01:00:Test Suite Dump
+2019-10-14T12:05:44.1455420+01:00:#0: Unnamed project/ - 
+2019-10-14T12:05:44.1455420+01:00:End: Test Suite Dump
+2019-10-14T12:05:44.1805412+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T12:05:44.1835509+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-14T12:05:44.1835509+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-14T12:05:44.1835509+01:00:Thread#0:Scheduler: No more tests for thread
+2019-10-14T12:05:44.1855429+01:00:Trying to cancel thread
+2019-10-14T12:05:44.1855429+01:00:Thread cancelled

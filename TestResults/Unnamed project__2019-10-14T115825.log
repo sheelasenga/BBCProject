@@ -1,0 +1,45 @@
+﻿2019-10-14T11:58:25.5240760+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-14T11:58:25.5240760+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-14T11:58:25.5240760+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-14T11:58:25.5670765+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-14T11:58:25.5670765+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults" (default)
+2019-10-14T11:58:25.5680778+01:00;VSTestExecutionThread;Info;Profile: 
+2019-10-14T11:58:25.6010831+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults\Unnamed project__2019-10-14T115825.log
+2019-10-14T11:58:25.6190777+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-14T11:58:25.6260768+01:00;Thread#14;Info;Checking license
+2019-10-14T11:58:25.6530785+01:00;Thread#14;Info;Evaluation mode: test execution starts in 11 seconds... (this delay is removed in the registered version)
+2019-10-14T11:58:36.6544467+01:00;Thread#14;Info;Evaluation delay finished.
+2019-10-14T11:58:36.6644453+01:00;Thread#14;Info;License check completed
+2019-10-14T11:58:36.6644453+01:00;Thread#14;Info;starting test run
+2019-10-14T11:58:36.6834446+01:00;Thread#14;Info;Discovering target: Default
+2019-10-14T11:58:36.6844467+01:00;Thread#14;Info;Discovering tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-14T11:58:36.8404431+01:00:Appdomain Disposed
+2019-10-14T11:58:36.8404431+01:00;Thread#14;Info;Discovered tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-14T11:58:36.8414469+01:00:Test Suite Dump
+2019-10-14T11:58:36.8444477+01:00:#0: Unnamed project/ - 
+2019-10-14T11:58:36.8444477+01:00:End: Test Suite Dump
+2019-10-14T11:58:36.8734418+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-14T11:58:36.8754408+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-14T11:58:36.8754408+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-14T11:58:36.8764457+01:00:Thread#0:Scheduler: No more tests for thread
+2019-10-14T11:58:36.8794473+01:00:Trying to cancel thread
+2019-10-14T11:58:36.8794473+01:00:Thread cancelled
+2019-10-14T11:58:36.8894425+01:00:Thread#-1:Scheduler: get next test for thread -1
+2019-10-14T11:58:36.8894425+01:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-14T11:58:36.8894425+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-10-14T11:58:36.8904437+01:00;Thread#14;Info;test run finished
+2019-10-14T11:58:36.8904437+01:00;Thread#14;Info;publishing test results
+2019-10-14T11:58:36.9004545+01:00;Thread#14;Info;test results published
+2019-10-14T11:58:36.9014496+01:00;Thread#14;Info;generating reports
+2019-10-14T11:58:36.9784506+01:00;Thread#14;Info;Starting external report generation process
+2019-10-14T11:58:38.4774451+01:00;Thread#14;Error;Could not generate test run result reports. An error occurred in the generator.
+2019-10-14T11:58:38.4794598+01:00;Thread#14;Error;External program returned exit code '-2'
+2019-10-14T11:58:38.4804452+01:00;Thread#14;Info;Failed generating reports
+2019-10-14T11:58:38.4944455+01:00:Total: 0
+2019-10-14T11:58:38.4974494+01:00:Succeeded: 0
+2019-10-14T11:58:38.4984459+01:00:Ignored: 0
+2019-10-14T11:58:38.4994583+01:00:Pending: 0
+2019-10-14T11:58:38.5004473+01:00:Skipped: 0
+2019-10-14T11:58:38.5014457+01:00:Failed: 0
+2019-10-14T11:58:38.5164468+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

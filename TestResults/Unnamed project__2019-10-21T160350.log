@@ -1,0 +1,75 @@
+﻿2019-10-21T16:03:50.2014611+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-21T16:03:50.2014611+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-21T16:03:50.2014611+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-21T16:03:50.3074626+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-21T16:03:50.3084803+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults" (default)
+2019-10-21T16:03:50.3094631+01:00;VSTestExecutionThread;Info;Profile: 
+2019-10-21T16:03:50.3584846+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults\Unnamed project__2019-10-21T160350.log
+2019-10-21T16:03:50.3964632+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-21T16:03:50.4184622+01:00;Thread#14;Info;Checking license
+2019-10-21T16:03:50.5054634+01:00;Thread#14;Info;Evaluation mode: test execution starts in 12 seconds... (this delay is removed in the registered version)
+2019-10-21T16:04:02.5075313+01:00;Thread#14;Info;Evaluation delay finished.
+2019-10-21T16:04:02.5155339+01:00;Thread#14;Info;License check completed
+2019-10-21T16:04:02.5155339+01:00;Thread#14;Info;starting test run
+2019-10-21T16:04:02.5315376+01:00;Thread#14;Info;Discovering target: Default
+2019-10-21T16:04:02.5315376+01:00;Thread#14;Info;Discovering tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-21T16:04:03.3355330+01:00:Appdomain Disposed
+2019-10-21T16:04:03.3355330+01:00;Thread#14;Info;Discovered tests from assembly: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-21T16:04:03.3365344+01:00:Test Suite Dump
+2019-10-21T16:04:03.3395341+01:00:#0: Unnamed project/ - 
+2019-10-21T16:04:03.3395341+01:00:#1: Default - 
+2019-10-21T16:04:03.3395341+01:00:#2: CSharpSpecFlowSelenium - 
+2019-10-21T16:04:03.3395341+01:00:#3: BBCLogin1 - 
+2019-10-21T16:04:03.4315323+01:00:#6: successful sign out - TestAssembly:CSharpSpecFlowSelenium/Feature:BBCLogin1/Scenario:successful+sign+out
+2019-10-21T16:04:03.4315323+01:00:End: Test Suite Dump
+2019-10-21T16:04:03.4645329+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T16:04:03.4675335+01:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2019-10-21T16:04:03.4675335+01:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-10-21T16:04:03.4735354+01:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T16:04:03.4735354+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-10-21T16:04:03.4735354+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-10-21T16:04:03.4735354+01:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-10-21T16:04:03.4755348+01:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-10-21T16:04:03.4785382+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-10-21T16:04:03.4825317+01:00:Thread #0: creating new test thread executor for CSharpSpecFlowSelenium, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-10-21T16:04:03.4845351+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-21T16:04:03.4855353+01:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-10-21T16:04:03.4875335+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-10-21T16:04:03.5915322+01:00:Thread#0: Test #6/0 is started on thread #0
+2019-10-21T16:04:03.7665314+01:00:Thread#0:T:-> Loading plugin C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-10-21T16:04:03.7755321+01:00:Thread#0:T:-> Using default config
+2019-10-21T16:04:09.8655697+01:00:Thread#0:B:Given i am on the account page
+2019-10-21T16:04:13.0576046+01:00:Thread#0:T:done: BBCSignoutSteps.GivenIAmOnTheAccountPage() (3.2s)
+2019-10-21T16:04:13.0596028+01:00:Thread#0:B:When i press the sign out button
+2019-10-21T16:04:13.2245904+01:00:Thread#0:T:error: Could not find element by: By.LinkText: Sign out
+2019-10-21T16:04:13.2275927+01:00:Thread#0:B:Then i should see the sign out page
+2019-10-21T16:04:13.2285906+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T16:04:13.2995905+01:00:Thread#0:TestItem#6:Scheduler: reschedule tests for testitem #6
+2019-10-21T16:04:13.3015898+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T16:04:13.3015898+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2019-10-21T16:04:13.3015898+01:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-10-21T16:04:13.3015898+01:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T16:04:13.3015898+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-10-21T16:04:13.3015898+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-10-21T16:04:13.3015898+01:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-10-21T16:04:13.3015898+01:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-10-21T16:04:13.3015898+01:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-10-21T16:04:13.5375923+01:00:Thread#0: Test #6/0 is finished on thread #0 as Failed within 9.9460601 seconds
+2019-10-21T16:04:13.5395944+01:00:Thread#0: Test #6/1 is started on thread #0
+2019-10-21T16:04:19.5451837+01:00:Thread#0:B:Given i am on the account page
+2019-10-21T16:04:23.6702227+01:00:Thread#0:T:done: BBCSignoutSteps.GivenIAmOnTheAccountPage() (4.1s)
+2019-10-21T16:04:23.6702227+01:00:Thread#0:B:When i press the sign out button
+2019-10-21T16:04:23.7292067+01:00:Thread#0:T:error: Could not find element by: By.LinkText: Sign out
+2019-10-21T16:04:23.7292067+01:00:Thread#0:B:Then i should see the sign out page
+2019-10-21T16:04:23.7302072+01:00:Thread#0:T:skipped because of previous errors
+2019-10-21T16:04:23.7312093+01:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-21T16:04:23.7312093+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2019-10-21T16:04:23.7312093+01:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-10-21T16:04:23.7312093+01:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-10-21T16:04:23.7312093+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-10-21T16:04:23.7312093+01:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-10-21T16:04:23.7312093+01:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-10-21T16:04:23.7312093+01:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-10-21T16:04:23.7312093+01:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-10-21T16:04:24.3362093+01:00:Thread#0: Test #6/1 is finished on thread #0 as Failed within 10.7966149 seconds
+2019-10-21T16:04:24.3372092+01:00:Thread#0: Test #6/2 is started on thread #0

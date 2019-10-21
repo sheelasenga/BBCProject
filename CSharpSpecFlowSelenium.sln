@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpSpecFlowSelenium", "CSharpSpecFlowSelenium\CSharpSpecFlowSelenium.csproj", "{2CD2EDDA-30DE-48F4-A5B2-9256BFF7365A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CD2EDDA-30DE-48F4-A5B2-9256BFF7365A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD2EDDA-30DE-48F4-A5B2-9256BFF7365A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD2EDDA-30DE-48F4-A5B2-9256BFF7365A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD2EDDA-30DE-48F4-A5B2-9256BFF7365A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF15A5DF-3074-4FC9-A327-E2B5429B44AE}
+	EndGlobalSection
+EndGlobal
