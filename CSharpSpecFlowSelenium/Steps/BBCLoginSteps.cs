@@ -13,7 +13,7 @@ namespace CSharpSpecFlowSelenium
         private IWebDriver driver;
         private BBCSignIn bbcsignin;
 
-       //[Scope(Feature = "BBCLogin")]
+        [Scope(Scenario = "Invalid password")]
         [BeforeScenario]
         public void SetUp()
         {
@@ -50,10 +50,14 @@ namespace CSharpSpecFlowSelenium
         {
             Assert.AreEqual("Sorry, that password isn't valid. Please include a letter.", bbcsignin.GetResponse());
         }
+
+        [Scope(Scenario = "Invalid password")]
         [AfterScenario]
         public void AfterScenario()
         {
-            driver.Close();
+            driver.Quit();
         }
+        
     }
+
 }

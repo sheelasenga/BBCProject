@@ -13,7 +13,7 @@ namespace CSharpSpecFlowSelenium
         private IWebDriver driver;
         private BBCSignIn bbcsignin;
         
-
+        [Scope(Scenario = "Valid password")]
         [BeforeScenario]
         public void SetUp()
         {
@@ -51,5 +51,11 @@ namespace CSharpSpecFlowSelenium
             Assert.AreEqual("BBC - Home", bbcsignin.GetDriver().Title);
         }
 
+        [Scope(Scenario = "Valid password")]
+        [AfterScenario]
+        public void AfterScenario()
+        {
+            driver.Quit();
+        }
     }
     }

@@ -1,0 +1,10 @@
+﻿2019-10-23T09:30:02.5479546+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-23T09:30:02.5479546+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework clr40 in x86 mode execution started
+2019-10-23T09:30:02.5479546+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\packages\SpecRun.Runner.3.0.391\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-23T09:30:02.5890924+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\CSharpSpecFlowSelenium\bin\Debug\CSharpSpecFlowSelenium.dll
+2019-10-23T09:30:02.5900960+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults" (default)
+2019-10-23T09:30:02.5900960+01:00;VSTestExecutionThread;Info;Profile: 
+2019-10-23T09:30:02.6974695+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\SSengamalam\source\repos\CSharpSpecFlowSelenium\TestResults\Unnamed project__2019-10-23T093002.log
+2019-10-23T09:30:02.7145374+01:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-23T09:30:02.7255698+01:00;Thread#13;Info;Checking license
+2019-10-23T09:30:02.8500038+01:00;Thread#13;Info;Evaluation mode: test execution starts in 9 seconds... (this delay is removed in the registered version)

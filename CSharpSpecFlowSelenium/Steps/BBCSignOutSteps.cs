@@ -13,7 +13,7 @@ namespace CSharpSpecFlowSelenium
         private BBCSignIn bbcsignin;
 
 
-        //  [Scope(Feature = "BBCLogin")]
+       [Scope(Scenario = "successful sign out")]
         [BeforeScenario]
         public void SetUp()
         {
@@ -42,7 +42,13 @@ namespace CSharpSpecFlowSelenium
         {
             Assert.AreEqual("BBC – account - you have been signed out", driver.Title);
         }
-       
+        [Scope(Scenario = "successful sign out")]
+        [AfterScenario]
+        public void AfterScenario()
+        {
+            driver.Quit();
+        }
+
     }
 }
 

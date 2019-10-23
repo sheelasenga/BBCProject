@@ -97,9 +97,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BBCLogin1Steps.cs" />
-    <Compile Include="BBCLoginSteps.cs" />
-    <Compile Include="BBCSignOutSteps.cs" />
+    <Compile Include="Steps\BBCLogin1Steps.cs" />
+    <Compile Include="Steps\BBCLoginSteps.cs" />
+    <Compile Include="Steps\BBCSignOutSteps.cs" />
     <Compile Include="CSharpSpecflowSelenium.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Pages\BBCSignIn.cs" />
